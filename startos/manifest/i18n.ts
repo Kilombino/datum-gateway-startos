@@ -16,9 +16,9 @@ export const bitcoinDescription = {
 
 export const long = {
   en_US:
-    'Datum Gateway allows miners to use their Bitcoin node to generate their own templates and issue work to their miners while still sharing rewards on a pool or solo mining.',
+    'Datum Gateway allows miners to use their Bitcoin node to generate their own templates and issue work to their miners while still sharing rewards on a pool or solo mining. This is CONVOY\'s DATUM Gateway v0.5.0beta (github.com/CONVOYMining/datum_gateway), in the StartOS package by Horizon (github.com/Horizon-btc/datum-gateway-startos), built by Kilombino with four CONVOY pull requests not released yet (#7, #4, #38, #40) and signed with Kilombino\'s key. All credit to CONVOY, OCEAN and Horizon.',
   es_ES:
-    'Datum Gateway permite a los mineros usar su nodo Bitcoin para generar sus propias plantillas de bloques y asignar trabajo a sus mineros, compartiendo recompensas en un pool o minando en solitario.',
+    'Datum Gateway permite a los mineros usar su nodo Bitcoin para generar sus propias plantillas de bloques y asignar trabajo a sus mineros, compartiendo recompensas en un pool o minando en solitario. Es el DATUM Gateway v0.5.0beta de CONVOY (github.com/CONVOYMining/datum_gateway), con el paquete StartOS de Horizon (github.com/Horizon-btc/datum-gateway-startos), compilado por Kilombino con cuatro pull requests de CONVOY aún sin publicar (#7, #4, #38, #40) y firmado con la clave de Kilombino. Todo el mérito para CONVOY, OCEAN y Horizon.',
   de_DE:
     'Datum Gateway ermöglicht es Minern, ihren Bitcoin-Node zu verwenden, um eigene Block-Vorlagen zu erstellen und Arbeit an ihre Miner zu verteilen, während sie Belohnungen in einem Pool teilen oder solo minen.',
   pl_PL:
