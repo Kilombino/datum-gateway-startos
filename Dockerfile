@@ -7,7 +7,6 @@ RUN apt update && \
 
 ADD ./datum_gateway /parent_dir/datum_gateway
 WORKDIR /parent_dir/datum_gateway
-RUN git status
 RUN cmake . && make
 
 FROM debian:bookworm-slim AS final
